@@ -1,5 +1,5 @@
 ---
-# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# Translation instructions are after the "#" character in this first section. They are commenat do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
 title: "How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute"
